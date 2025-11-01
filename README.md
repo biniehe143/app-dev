@@ -1,5 +1,6 @@
 # app-dev
 My first repository
+
 **Series Name:** Stranger Things  
 **Genre:** TV Dramas, Sci-Fi TV, Teen TV Shows, Horror, Fantasy  
 **Released Date:** July 15, 2016
